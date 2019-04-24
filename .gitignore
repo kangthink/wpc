@@ -1,0 +1,11 @@
+__pycache__
+.pytest_cache
+.vscode
+.DS_Store
+
+# Ignore a resource file and auto-generated files
+words.txt
+no_link.txt
+
+# Ignore directory for downloaded files
+/downloaded
