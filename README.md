@@ -1,6 +1,8 @@
 # WPC
 wpc stands for word pronunciation file collector. This module is for download mp3 files from Dictionary site given words.
 
+![wpc_diagram](./wpc_diagram.png)
+
 # Usage
 
 1. Create `words.txt` file under the root directory. words should be seperated line by line.
