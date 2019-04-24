@@ -6,7 +6,7 @@ wpc stands for word pronunciation file collector. This module is for download mp
 # Usage
 
 1. Create `words.txt` file under the root directory. words should be seperated line by line.
-2. Execute the command below:
+2. Execute the command below under the root directory:
 
     ```shell
     $ python wpc.py
